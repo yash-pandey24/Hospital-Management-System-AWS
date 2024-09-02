@@ -1,0 +1,12 @@
+hospital_data
+Provider ID,Hospital Name,Address,City,State,ZIP Code,County Name,Phone Number,Hospital Type,Hospital Ownership,Emergency Services,Hospital Overall Rating,
+10001,St. Mary's Hospital,123 Main St,Springfield,IL,62701,Sangamon,(217) 555-1234,Acute Care,Voluntary non-profit - Private,Yes,4,
+10002,General Hospital,456 Elm St,Columbus,OH,43215,Franklin,(614) 555-5678,Acute Care,Government - Local,Yes,3,
+10003,Central Hospital,789 Maple Ave,Dayton,OH,45402,Montgomery,(937) 555-7890,Critical Access,Government - State,No,5,
+10004,Riverside Medical Center,321 Oak St,Chicago,IL,60611,Cook,(312) 555-2345,Acute Care,Proprietary,Yes,2,
+10005,Lakeview Clinic,654 Pine St,Madison,WI,53703,Dane,(608) 555-3456,Critical Access,Voluntary non-profit - Private,No,5,
+10006,Sunshine Hospital,987 Cedar Rd,Orlando,FL,32801,Orange,(407) 555-4567,Acute Care,Voluntary non-profit - Church,Yes,3,
+10007,Hilltop Hospital,321 Birch Blvd,Atlanta,GA,30303,Fulton,(404) 555-6789,Acute Care,Proprietary,Yes,4,
+10008,Valley Health Center,654 Aspen Ln,Phoenix,AZ,85001,Maricopa,(602) 555-7891,Critical Access,Government - Federal,No,4,
+10009,Metro Medical Center,789 Willow Way,Dallas,TX,75201,Dallas,(214) 555-8901,Acute Care,Voluntary non-profit - Private,Yes,5,
+10010,Oceanview Hospital,123 Palm Dr,Miami,FL,33101,Miami-Dade,(305) 555-1234,Acute Care,Proprietary,Yes,2,
